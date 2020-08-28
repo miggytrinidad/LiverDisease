@@ -91,5 +91,6 @@ We will perform two experiments: Training without addressing the imbalanced data
 3. Holland, K. (2020). 12 Leading Causes of Death in the United States. Retrieved 16 July 2020, from https://www.healthline.com/health/leading-causes-of-death#heart-disease
 
 #### Contributors
-Juan Miguel Trinidad | Jonathan Musni
+Juan Miguel Trinidad and Jonathan Musni
+
 Data Science | Masters Technical Intern at DXC Technology Applied AI Center of Excellence: DXC Applied AI Studio
